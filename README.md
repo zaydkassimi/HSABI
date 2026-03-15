@@ -111,11 +111,6 @@ Hsabi/
 
 ---
 
-## 📸 Screenshots
-
-*(Add your screenshots here to showcase the beautiful Emerald/Blue UI)*
-
----
 
 ## 📄 License
 
